@@ -4,9 +4,9 @@ Em Fundamentos parte 1 vou registrar o meu aprendizado dos fundamentos do Javasc
 Aqui vou registrar aprendizados de:
 * Array
 ---
-## 🟩 Arrays
+## 🟩 Arrays e Ojetos
 
-### O que é um array?
+### Quais as diferenças de arrays e objetos
 
 > Array é uma estrutura de dados que armazena uma coleção ordenada de elementos, acessados por índices numéricos, começando do zero.
 
