@@ -6,7 +6,7 @@ Neste pequeno projeto, criei minha própria array, que é essencialmente um obje
 ## 🟩 O que aprendi com esse pequeno projeto
 Que o array ou uma lista é um objeto, com isso consolidei os seguintes conhecimentos abaixo:
 ### Arrays
-> Todo array é um objeto, mas com estrutura e comportamento próprios.
+>* Todo array é um objeto, mas com estrutura e comportamento próprios.
 > Possuem a propriedade .length e vários métodos nativos para inserção, exclusão e manipulação de dados (push, pop, map, filter, etc); <br>
 > Estrutura sequencial e otimizada para acessos e manipulações rápidas;<br>
 > Os índices (números inteiros a partir de zero) são fundamentais na estrutura dos arrays;<br>
