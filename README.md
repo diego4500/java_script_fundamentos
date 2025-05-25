@@ -22,4 +22,4 @@ Aqui vou registrar aprendizados de:
 
 ### Exemplos de código
 
-```const array = [];
+```const array = 5
