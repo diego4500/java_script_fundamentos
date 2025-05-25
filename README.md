@@ -20,7 +20,5 @@ Aqui vou registrar aprendizados de:
 > Objetos não possuem métodos nativos de array, nem a propriedade .length por padrão;<br>
 > Objetos não são otimizados para operar como listas sequenciais — não têm a mesma performance de arrays em operações de list;<br>
 
-### Exemplos de código
-
-```js
-const array = 5
+### Nessa fase inicial o que podemos concluir?
+> Podemos concluir que todo array é um objeto e que um objeto não pode ser um array, mas podemos simular e criar um comportamento parecido, mas sem as otimizações do array.
