@@ -1,20 +1,9 @@
-# 📚 Aprendizados em JavaScript
+# 📚 Fundamentos Parte 1 do Javascript
 
-Bem-vindo(a) ao meu repositório de estudos sobre JavaScript!  
-Aqui registro tudo que aprendo, exemplos de código, teoria, comparativos de performance e dicas úteis.
-
+Em Fundamentos parte 1 vou registrar o meu aprendizado dos fundamentos do Javascript. 
+Aqui vou registrar aprendizados de:
+* Array
 ---
-
-## 📑 Índice
-
-- [Arrays](#arrays)
-- [Objetos](#objetos)
-- [Comparativo: Array vs Objeto](#comparativo-array-vs-objeto)
-- [Benchmarks e Performance](#benchmarks-e-performance)
-- [Links Úteis](#links-úteis)
-
----
-
 ## 🟩 Arrays
 
 ### O que é um array?
