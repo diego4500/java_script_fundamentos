@@ -19,19 +19,14 @@ formulario.addEventListener('submit', function (event) {
     };
 
     // Insere esse objeto no arraySimuladoNome, ou seja, cada array é o cadastro de uma 
-    arraySimuladoNome.push(cadastroPessoa);
-    
+    arraySimuladoNome.push(cadastroPessoa);    
 
     // Exibe resultado na div resultado na tela
     exibirTabelaCadastros();
-
 });
 
 function exibirTabelaCadastros() {
     let resultado = document.getElementById('resultado');
-
-
-
     let tabela = `
         <table>
             <tr>
@@ -61,9 +56,7 @@ function exibirTabelaCadastros() {
     } else {
         resultado.style.display = "flex"; // Se usa flexbox, senão "block"
     }
-    
     resultado.innerHTML = tabela;
-
     let botaoExcluir = document.querySelectorAll('.btn-excluir') // Cria um NodeList que agrupa todos os botões com essa classe no DOM, formando uma espécie de array com esses botões.
 
     // Pecorre o array com os botões excluir
@@ -75,7 +68,6 @@ function exibirTabelaCadastros() {
             exibirTabelaCadastros(); // Atualiza a tabela após excluir
         });
     });
-
 }
 
 
