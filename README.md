@@ -1,11 +1,10 @@
-# 📚 Fundamentos Parte 1 do Javascript
+# 📚 Fundamentos JavaScript - Criei meu próprio array
 
-Em Fundamentos parte 1 vou registrar o meu aprendizado dos fundamentos do Javascript. 
-Aqui vou registrar aprendizados de:
-* Array
+Neste pequeno projeto, criei minha própria array, que é essencialmente um objeto com um comportamento similar ao de uma lista. Dentro desse objeto, defini o length e os métodos push e delete. Na sequência, adicionei um pequeno formulário com os campos nome, telefone e e-mail, onde, ao realizar o cadastro, é acionado um evento submit, transformando esses dados em um objeto e adicionando esse objeto à minha array criada.
+
 ---
-## 🟩 Quais as diferenças de arrays e objetos
-
+## 🟩 O que aprendi com esse pequeno projeto
+Que o array ou uma lista é um objeto, com isso consolidei os seguintes conhecimentos abaixo:
 ### Arrays
 > Todo array é um objeto, mas com estrutura e comportamento próprios.
 > Possuem a propriedade .length e vários métodos nativos para inserção, exclusão e manipulação de dados (push, pop, map, filter, etc); <br>
