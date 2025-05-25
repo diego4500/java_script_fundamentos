@@ -22,7 +22,4 @@ Aqui vou registrar aprendizados de:
 
 ### Exemplos de código
 
-```js
-const arr = [1, 2, 3];
-arr.push(4);
-console.log(arr.length); // 4
+```const array = [];
