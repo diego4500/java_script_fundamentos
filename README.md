@@ -4,11 +4,21 @@ Em Fundamentos parte 1 vou registrar o meu aprendizado dos fundamentos do Javasc
 Aqui vou registrar aprendizados de:
 * Array
 ---
-## 🟩 Arrays e Ojetos
+## 🟩 Quais as diferenças de arrays e objetos
 
-### Quais as diferenças de arrays e objetos
+### Arrays
+> Todo array é um objeto, mas com estrutura e comportamento próprios.
+> Possuem a propriedade .length e vários métodos nativos para inserção, exclusão e manipulação de dados (push, pop, map, filter, etc);
+> Estrutura sequencial e otimizada para acessos e manipulações rápidas;
+> Os índices (números inteiros a partir de zero) são fundamentais na estrutura dos arrays;
 
-> Array é uma estrutura de dados que armazena uma coleção ordenada de elementos, acessados por índices numéricos, começando do zero.
+### Objetos
+> Nem todo objeto é um array;
+> Com objetos podemos simular um array, mas não obter todos os comportamentos e otimizações de um array verdadeiro;
+> Mesmo sendo o array sendo um objeto ele possui uma estrutura diferente de um objeto literal;
+> Arrays são objetos especiais, com estrutura diferente de um objeto literal;
+> Objetos não possuem métodos nativos de array, nem a propriedade .length por padrão;
+> Objetos não são otimizados para operar como listas sequenciais — não têm a mesma performance de arrays em operações de list;
 
 ### Exemplos de código
 
