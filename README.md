@@ -22,4 +22,5 @@ Aqui vou registrar aprendizados de:
 
 ### Exemplos de código
 
-```const array = 5
+```js
+const array = 5
