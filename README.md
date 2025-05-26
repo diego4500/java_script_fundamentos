@@ -21,3 +21,6 @@ Que o array ou uma lista é um objeto, com isso consolidei os seguintes conhecim
 
 ### O que podemos concluir?
 > Podemos concluir que todo array é um objeto e que um objeto não pode ser um array, mas podemos simular e criar um comportamento parecido, mas sem as otimizações do array.
+
+### Tela do mini projeto
+![{420D4139-6603-40F2-9AA9-7CA627D7F291}](https://github.com/user-attachments/assets/86548011-f285-45da-acb1-d8546cc22528)
